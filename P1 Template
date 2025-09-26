@@ -1,0 +1,74 @@
+# Priority 1 (P1) Incident Communication Template
+
+**Subject:** 🚨 P1 Incident: [Short Description of Issue]
+
+---
+
+## Incident Overview
+- **Date/Time Detected:** [2025-09-26 18:45 PST]
+- **Current Status:** [Open/Investigating]
+- **Impact:** [Describe the affected services, users, business impact]
+- **Incident Owner:** [Name/Team]
+
+---
+
+## Details
+- **Description:**  
+  [Provide a concise, factual summary of the issue]
+
+- **Symptoms:**  
+  [List what users are seeing or experiencing]
+
+- **Affected Areas:**  
+  [Systems, applications, teams, regions, etc.]
+
+---
+**Please treat this issue as URGENT. Further updates will follow as more information becomes available.**
+## Sample Outage Scenario
+
+**Date/Time Detected:** 2025-09-26 18:45 UTC  
+**Current Status:** Investigating  
+**Impact:** All user-facing web applications are unavailable. Customers are unable to log in or access their accounts.  
+**Incident Owner:** SRE Team
+
+**Description:**  
+A major outage is affecting our production environment. Web servers are not responding to requests, resulting in HTTP 503 errors across all customer-facing portals.
+
+**Symptoms:**  
+- Users report "Service Unavailable" errors.
+- Monitoring tools show 100% failure rate for web requests.
+- No access to user dashboards or account pages.
+
+**Affected Areas:**  
+- Customer web portal
+- Internal admin dashboard
+- API endpoints
+
+---
+
+## Actions Taken
+- Restarted web server clusters
+- Engaged cloud provider support
+- Rolled back recent deployment
+
+---
+
+## Next Steps
+- Continue root cause analysis with infrastructure team
+- Provide update in 30 minutes or as soon as new information is available
+
+---
+
+## Communication Plan
+- **Next Update:** 2025-09-26 19:15 UTC
+- **Point of Contact:** SRE Team (sre-team@company.com)
+
+---
+
+## Additional Notes
+- Escalated to cloud provider incident response team
+- Incident tracking: [Link to incident tracker]
+
+---
+
+**Please treat this issue as URGENT. Further updates will follow as more information becomes available.**
