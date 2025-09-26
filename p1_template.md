@@ -24,10 +24,9 @@
   [Systems, applications, teams, regions, etc.]
   
 - **Workaround:**  
-  [Websites, mobile applications etc.]
+  [Website, mobile applications, teams, etc.]
 
- - **Next Update:**
+- **Next Update:**  
   [2025-09-26 19:15 PST]
-
 ---
 **Please treat this issue as URGENT. Further updates will follow as more information becomes available.**
